@@ -1,0 +1,18 @@
+body{
+    background-color:salmon;
+}
+.i{
+    font-size: 30px;
+    color: whitesmoke;
+    background-color: lightcoral;
+    padding: 10px;
+    border-radius: 50%;
+    border: 2px solid white;
+    
+}
+.i:hover{
+    font-size: 25;
+    color: black;
+    background-color: salmon;
+    border: 2px solid black;
+}
